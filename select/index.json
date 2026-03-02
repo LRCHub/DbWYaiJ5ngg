@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "LOOP",
+  "base_artist": "SIRUP",
+  "createdAt": "2026-03-02T11:09:16.002952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Free Loop",
+      "artist": "Daniel Powter",
+      "has_synced": true,
+      "path": "select/01_Free_Loop_Daniel_Powter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Strange Loop - Remastered",
+      "artist": "Liz Phair",
+      "has_synced": false,
+      "path": "select/02_Strange_Loop_-_Remastered_Liz_Phair.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feedback (Life, Love, Loop)",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/03_Feedback_(Life,_Love,_Loop)_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tape Loop",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/04_Tape_Loop_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "breathe loop",
+      "artist": "blackwinterwells",
+      "has_synced": true,
+      "path": "select/05_breathe_loop_blackwinterwells.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "On the Loop",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/06_On_the_Loop_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Loop",
+      "artist": "Toro y Moi",
+      "has_synced": true,
+      "path": "select/07_The_Loop_Toro_y_Moi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Loop In Blue",
+      "artist": "Halou",
+      "has_synced": false,
+      "path": "select/08_Loop_In_Blue_Halou.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tape Loop (Diabolical Brothers mix)",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/09_Tape_Loop_(Diabolical_Brothers_mix)_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tape Loop - Diabolical Brothers Remix",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/10_Tape_Loop_-_Diabolical_Brothers_Remix_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tape Loop (Diabolical Brothers remix)",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/11_Tape_Loop_(Diabolical_Brothers_remix)_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flute Loop",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/12_Flute_Loop_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Insect Loop",
+      "artist": "Let's Eat Grandma",
+      "has_synced": true,
+      "path": "select/13_Insect_Loop_Let's_Eat_Grandma.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stuck in a Loop",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/14_Stuck_in_a_Loop_Devo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOOP",
+      "artist": "SIRUP",
+      "has_synced": false,
+      "path": "select/pl_01_LOOP_SIRUP.txt"
+    }
+  ]
+}
